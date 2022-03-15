@@ -115,15 +115,11 @@ Download [Python](https://www.python.org/downloads/).
    ```sh
    git clone https://github.com/codopus/doraemon.git
    ```
-2. Install Turtle packages
-   ```sh
-   pip install turtle
-   ```
-3. Enter your Doraemon file
+2. Enter your Doraemon file
    ```js
    cd doraemon;
    ```
-4. Run Project
+3. Run Project
    ```js
    py doraemon.py;
    ```
