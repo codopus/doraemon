@@ -36,7 +36,7 @@
 <h3 align="center">Doraemon</h3>
 
   <p align="center">
-    Doraemon is a Python tkinter gui program
+    Doraemon is a Python Turtle gui program
     <br />
     <a href="https://github.com/codopus/doraemon"><strong>Explore the docs »</strong></a>
     <br />
@@ -82,9 +82,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/codopus/doraemon)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -92,14 +91,8 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [python](https://www.python.org/)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -114,25 +107,26 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Download [Python](https://www.python.org/downloads/).
+
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/codopus/doraemon.git
    ```
-3. Install NPM packages
+2. Install Turtle packages
    ```sh
-   npm install
+   pip install turtle
    ```
-4. Enter your API in `config.js`
+3. Enter your Doraemon file
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   cd doraemon;
+   ```
+4. Run Project
+   ```js
+   py doraemon.py;
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -144,21 +138,7 @@ This is an example of how to list things you need to use the software and how to
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/codopus/doraemon/issues) for a full list of proposed features (and known issues).
+_For more examples, please refer to the [Documentation](https://github.com/codopus/doraemon)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -205,9 +185,9 @@ Project Link: [https://github.com/codopus/doraemon](https://github.com/codopus/d
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+
+* [Pickachu](https://github.com/codopus/pikachu)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -224,7 +204,7 @@ Project Link: [https://github.com/codopus/doraemon](https://github.com/codopus/d
 [issues-shield]: https://img.shields.io/github/issues/codopus/doraemon.svg?style=for-the-badge
 [issues-url]: https://github.com/codopus/doraemon/issues
 [license-shield]: https://img.shields.io/github/license/codopus/doraemon.svg?style=for-the-badge
-[license-url]: https://github.com/codopus/doraemon/blob/master/LICENSE.txt
+[license-url]: https://github.com/codopus/doraemon/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://linkedin.com/in/codopus
 [product-screenshot]: images/doreamon.png
